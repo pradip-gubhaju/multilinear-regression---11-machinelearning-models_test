@@ -1,4 +1,4 @@
-# machinelearning-models_test
+#Regression algorithm in machinelearning
 Regression algorithm in machine learning project(all in one)
 
 **Linear Regression**
